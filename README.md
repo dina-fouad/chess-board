@@ -1,2 +1,2 @@
-## chess-board dina
+## chess-board 
 PR link : 
